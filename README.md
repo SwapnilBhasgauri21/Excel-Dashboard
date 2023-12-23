@@ -5,11 +5,11 @@ This report outlines the steps to create an Excel dashboard using a sample bike 
 1. Download the sample bike buyer dataset from the instructor's GitHub repository.
 2. Import the data into Excel and create a working sheet to avoid overwriting the original data.
 3. Remove duplicate entries using the "Remove Duplicates" feature.
-4. Clean and format the data by:
-o Replacing abbreviations for marital status and gender with full words (e.g., M/S to Married/Single, M/F to Male/Female).
-o Ensuring consistency in currency formatting for income.
-o Combining similar commute distance ranges if necessary.
-o Creating age brackets to condense the age data.  
+4. Clean and format the data by:  
+o Replacing abbreviations for marital status and gender with full words (e.g., M/S to Married/Single, M/F to Male/Female).  
+o Ensuring consistency in currency formatting for income.  
+o Combining similar commute distance ranges if necessary.  
+o Creating age brackets to condense the age data.    
 # Pivot Tables and Visualizations:
 1. Create a pivot table to analyze the average income of bike buyers by gender and purchase decision.
 2. Create a bar chart to visualize the average income data, with appropriate chart title and data labels.
